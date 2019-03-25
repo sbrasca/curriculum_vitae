@@ -66,14 +66,14 @@ h1, h2, h3, h4, h5, h6 {
 ul, ul li,
 ol, ol li,
 p, form, input {
-	margin: 0;
-	padding: 0;
+	/* margin: 0;
+	padding: 0; */
 }
 p {
 	margin-bottom: 10px;
 }
 ul, ul li {
-	list-style: none;
+	/* list-style: none; */
 }
 /* =============== DEFAULT HTML - IMAGES STYLES =============== */
 img {
