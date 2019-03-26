@@ -32,7 +32,7 @@ hr {
 a {
 	text-decoration: none;
 	outline: none;
-	color: #263238;
+	color: #90a4ae;
 	-webkit-transition: all .3s ease-in-out;
 	   -moz-transition: all .3s ease-in-out;
 		 -o-transition: all .3s ease-in-out;
@@ -54,6 +54,10 @@ a img {
 }
 a[class*="glyphicon-"] {
 	text-decoration: none;
+}
+
+.topBar {
+	color: #263238;
 }
 /* =============== DEFAULT HTML - HEADING STYLES =============== */
 h1, h2, h3, h4, h5, h6 {
