@@ -1,9 +1,3 @@
-LANGUAGES
-Spanish: Mother tongue
-English: B1
-Italian: B2
-Catalán: A2
-
 SOFTWARE
 MS Office pack / One Stream / Archer/ Dacs
 
